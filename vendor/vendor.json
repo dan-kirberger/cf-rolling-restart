@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "NMwtQw0yIl7Ghfj4lYEhdVUa/UQ=",
+			"path": "code.cloudfoundry.org/cli/plugin",
+			"revision": "d9ace04b3b251d081614a03d750c4569cfd01dcd",
+			"revisionTime": "2017-01-20T21:50:06Z"
+		},
+		{
+			"checksumSHA1": "aQUNFU5W7caQXwQb2h0jtN/RtQM=",
+			"path": "code.cloudfoundry.org/cli/plugin/models",
+			"revision": "d9ace04b3b251d081614a03d750c4569cfd01dcd",
+			"revisionTime": "2017-01-20T21:50:06Z"
+		}
+	],
+	"rootPath": "github.com/dan-kirberger/cf-rolling-restart"
+}
